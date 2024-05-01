@@ -106,7 +106,7 @@ commit 내용 취소하기
 Head 위치를 아예 바꿔버려 로컬 저장소의 상태를 commit 이전의 상태로 강제로 변경한다. 
 
 ## add, commit, push
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/002c6ef5-2d6f-44c5-a5c1-a9fbdb4d912b/46ed899b-7579-46f8-b36a-d60261f174f2/Untitled.png)
+<img width="507" alt="스크린샷 2024-05-01 오후 9 11 05" src="https://github.com/osjkate/solux_git_seminar/assets/98140863/dbc5ed50-847d-46a9-96e6-c53f9f69dde5">
 
 #### add
 ```java
